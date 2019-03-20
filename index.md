@@ -134,12 +134,20 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
   accessible to everybody.
-  The workshop organisers will make every effort to ensure that:
+  The workshop organisers will make every effort to provide:
 </p>
 <ul>
-  <li>The sound and picture are available in good quality to all participants.</li>
-  <li>Workshop materials are delivered in a format that is can be easily accessed by all participants.</li>
+  <li>Sound and picture to all participants connected to the video conference.</li>
+  <li>Workshop materials in a format that is can be easily accessed by all participants.</li>
 </ul>
+<p>
+  Participants will follow the training by video conference. 
+  The performance of the video conferencing software is dependent upon the quality of the
+  Internet connection that the particpant has access to.
+  If attending, 
+  please consider the quality of connection available when choosing the physical
+  location from which you will follow the training.
+</p>
 <p>
   Materials will be provided in advance of the workshop and
   large-print handouts are available if needed by notifying the
