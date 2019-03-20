@@ -134,11 +134,11 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
   accessible to everybody.
-  The workshop organisers have checked that:
+  The workshop organisers will make every effort to ensure that:
 </p>
 <ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
+  <li>The sound and picture are available in good quality to all participants.</li>
+  <li>Workshop materials are delivered in a format that is can be easily accessed by all participants.</li>
 </ul>
 <p>
   Materials will be provided in advance of the workshop and
